@@ -57,6 +57,11 @@ body{
     margin-bottom: 15px;
 }
 
+.carousel-item{
+    margin-top:10px;
+    
+}
+
 .footer{
     background-color: #8bb8d8;
     color: black;
